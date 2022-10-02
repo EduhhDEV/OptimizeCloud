@@ -1,0 +1,37 @@
+{
+  "main": {
+    "title": "Welcome to the best VPS platform in Brazil",
+    "description": "We have been in the market for 1 year delivering servers all over the world and you deserve the quality we have to offer, without risk and the greatest security.",
+    "about": {
+      "title": "Easy, Complete & Fast.",
+      "description": "Don't worry, we understand that you may be able to help if you have questions about the ways to create your server, and this is not a problem as you can with our support time for the entire process of configuring and maintaining your server. Our time has more than 1 years of online gaming experience."
+    },
+    "choose_us": {
+      "title": "Why Chose Us?",
+      "description": "Our company is specialized in attending at any time to withdraw. For your queries, we have more than 50 servers hosted around the world. If you have any doubts, do not hesitate to remove them."
+    }
+  },
+  "vps": {
+    "choose_plan": "Choose your plan",
+    "vps_type": "Vps type",
+    "vps_size": "Plan size",
+    "details": "Your plan details",
+
+    "title": "Light, fast and reliable",
+    "description": "These are the main points of our Vps. offering speed and stability without impacting safety. Get more power, flexibility and speed with our VPS Server Hosting.",
+    "advantages": {
+      "activation": {
+        "title": "Immediate Activation",
+        "description": "Activation is done automatically, receive your server in 60 seconds and don't waste time!"
+      },
+      "refund": {
+        "title": "Refund",
+        "description": "You can request a refund within 7 days of purchase if you don't like the service or have any problems!"
+      },
+      "ddos": {
+        "title": "DDoS Protection",
+        "description": "We offer the best DDoS protection on the market, ensuring your server stays online!"
+      }
+    }
+  }
+}

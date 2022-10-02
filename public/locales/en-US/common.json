@@ -1,0 +1,24 @@
+{
+  "language": "English",
+  "currency": "USD",
+
+  "client_area": "Client Area",
+  "view_plans": "View Plans",
+  "bought": "Buy",
+  "memory": "Memory",
+  "vcpu": "vCpu",
+  "price": "Price",
+  "storage": "Storage",
+  "partners": "Partners who thust us!",
+
+  "navbar": {
+    "servers": "Servers",
+    "about": "About",
+    "terms": "Terms",
+    "discord": "Discord",
+    "home": "Home"
+  },
+  "footer": {
+    "text": "Create your own world!"
+  }
+}
