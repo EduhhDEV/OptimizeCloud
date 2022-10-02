@@ -1,0 +1,37 @@
+{
+  "main": {
+    "title": "Bem-vindo à melhor plataforma de VPS do Brasil",
+    "description": "Estamos no mercado há 1 ano entregando servidores em todo o mundo e você merece a qualidade que temos a oferecer, sem risco e com a maior segurança.",
+    "about": {
+      "title": "Fácil, Completo e Rápido.",
+      "description": "Não se preocupe, se você tiver alguma dúvida sobre como seu servidor foi criado, sabemos que você pode ajudar, isso não é um problema, pois nosso horário de suporte o apoia durante todo o processo de configuração e manutenção do seu servidor. Nosso tempo tem mais de 1 ano de experiência em jogos online."
+    },
+    "choose_us": {
+      "title": "Por que nós escolher?",
+      "description": "Nossa empresa é especializada em atender a qualquer hora para retirar. Para suas consultas, temos mais de 50 servidores hospedados em todo o mundo. Se você tiver alguma dúvida, não hesite em removê-los."
+    }
+  },
+  "vps": {
+    "choose_plan": "Escolha seu plano",
+    "vps_type": "Tipo do plano",
+    "vps_size": "Tamanho do plano",
+    "details": "Detalhes do seu plano",
+
+    "title": "Leve, rápido e confiável",
+    "description": "Estes são os pontos principais das nossas Vps. oferecendo velocidade e estabilidade sem impactar na segurança. Tenha mais poder, flexibilidade e velocidade com nossa hospedagem de servidor VPS",
+    "advantages": {
+      "activation": {
+        "title": "Ativação automatica",
+        "description": "A ativação é feita automaticamente, receba seu servidor em 60 segundos e não perca tempo!"
+      },
+      "refund": {
+        "title": "Reembolso",
+        "description": "Você pode solicitar um reembolso em até 7 dias após a compra se não gostar do serviço ou tiver algum problema!"
+      },
+      "ddos": {
+        "title": "Proteção contra DDoS",
+        "description": "Oferecemos a melhor proteção DDoS do mercado, garantindo que seu servidor permaneça online!"
+      }
+    }
+  }
+}

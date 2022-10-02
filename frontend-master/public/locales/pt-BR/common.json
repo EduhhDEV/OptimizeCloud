@@ -1,0 +1,25 @@
+{
+  "language": "Português",
+  "currency": "BRL",
+  
+
+  "client_area": "Area do cliente",
+  "view_plans": "Ver planos",
+  "bought": "Comprar",
+  "memory": "Memória",
+  "vcpu": "vCpu",
+  "price": "Preço",
+  "storage": "Armazenamento",
+  "partners": "Parceiros que confiam na gente",
+
+  "navbar": {
+    "servers": "Servidores",
+    "about": "Sobre nós",
+    "terms": "Termos",
+    "discord": "Discord",
+    "home": "Início"
+  },
+  "footer": {
+    "text": "Crie seu proprio mundo"
+  }
+}
